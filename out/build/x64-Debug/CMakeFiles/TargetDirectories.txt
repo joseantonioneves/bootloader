@@ -1,0 +1,5 @@
+C:/Users/José Antonio/source/repos/bootloader/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/José Antonio/source/repos/bootloader/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/José Antonio/source/repos/bootloader/out/build/x64-Debug/bootloader/CMakeFiles/bootloader.dir
+C:/Users/José Antonio/source/repos/bootloader/out/build/x64-Debug/bootloader/CMakeFiles/edit_cache.dir
+C:/Users/José Antonio/source/repos/bootloader/out/build/x64-Debug/bootloader/CMakeFiles/rebuild_cache.dir
